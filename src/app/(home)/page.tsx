@@ -6,7 +6,7 @@ export default function Home() {
 
   return (
     <main>
-      <Hero />
+    <Hero />
      <Description />
      <MainProducts />
     </main>
